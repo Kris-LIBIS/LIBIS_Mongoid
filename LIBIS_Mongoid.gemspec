@@ -18,7 +18,7 @@ Gem::Specification.new do |spec|
 
   spec.authors       = ['Kris Dekeyser']
   spec.email         = ['kris.dekeyser@libis.be']
-  spec.homepage      = 'https://github.com/Kris-LIBIS/mongoid'
+  spec.homepage      = 'https://github.com/Kris-LIBIS/LIBIS_Mongoid'
   spec.license       = 'MIT'
 
   spec.files         = `git ls-files -z`.split("\x0")
